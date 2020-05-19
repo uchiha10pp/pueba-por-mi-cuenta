@@ -6,7 +6,8 @@
 </head>
 <body>
 	<?php
-		phpinfo();
+		//phpinfo();
+		echo("Bienvenido Mortales");
 	?>
 
 </body>
